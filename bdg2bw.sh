@@ -1,0 +1,1 @@
+/hpc/users/divagt01/watanabe/bdg2bw.sh

@@ -14,6 +14,8 @@ do
     mkdir -p $col1
     cd $col1
     fastqc -t 4 $col2
+    cd $output_dir
+
 done < $input_csv_file
 
 
